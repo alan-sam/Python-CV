@@ -1,7 +1,7 @@
 import cv2
 
 cap = cv2.VideoCapture(0)
-cap.set(3, 720)
+cap.set(3, 1080)
 cap.set(4, 1080)
 cap.set(10, 100)
 
